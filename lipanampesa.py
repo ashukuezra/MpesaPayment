@@ -1,0 +1,1 @@
+print("Welcom too full stack Django")
